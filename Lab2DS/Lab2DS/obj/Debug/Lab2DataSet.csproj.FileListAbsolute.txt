@@ -1,0 +1,4 @@
+C:\Users\Mi\source\repos\Lab2DataSet\Lab2DataSet\obj\Debug\Lab2DataSet.csproj.AssemblyReference.cache
+C:\Users\Mi\source\repos\Lab2DataSet\Lab2DataSet\obj\Debug\App.g.cs
+C:\Users\Mi\source\repos\Lab2DataSet\Lab2DataSet\obj\Debug\Lab2DataSet_MarkupCompile.cache
+C:\Users\Mi\source\repos\Lab2DataSet\Lab2DataSet\obj\Debug\Lab2DataSet_MarkupCompile.lref
